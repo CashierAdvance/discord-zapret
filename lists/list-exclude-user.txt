@@ -1,0 +1,2 @@
+domain.example.abc
+# CashierAdvance/discord-zapret e95343c85282
